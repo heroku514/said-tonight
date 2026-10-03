@@ -5,3 +5,4 @@
 - App Store Connect shows no rejected version. Peaker Map is Pending Developer Release. RemoteBridge, RemoteBridgeMac, and Mini Play World are still Prepare for Submission.
 - Sobremesa, Table Talk, and Family Conversations already sell or give away dinner-question cards. Said Tonight stores the spoken answer instead of only showing the next card.
 - Answers stay on the phone under `said-tonight-v1`. The app does not use a network.
+- The simulator keyboard types a space as a break, so the regression saved the single words Cat and Moon. The screen still shows a sentence with spaces when a person types one.
